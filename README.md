@@ -5,10 +5,10 @@ Este projeto é um currículo simples desenvolvido em HTML e CSS. O objetivo é 
 ## 📋 Estrutura do Projeto
 
 O currículo contém as seguintes seções:
-- **📝 Nome**: O nome do autor.
-- **🎓 Curso**: O curso que o autor está cursando.
-- **📅 Período**: O período em que o autor está no curso.
-- **📚 Cursos Adicionais**: Inclui o curso de "Guia Básico de Git e GitHub".
+- **📝 Nome**: Mariana Sarinho.
+- **🎓 Curso**: Sistemas para Internet.
+- **📅 Período**: 1.
+- **📚 Cursos Adicionais**: Inclui o curso de "Guia Básico de Git e GitHub.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -18,4 +18,4 @@ Este projeto utiliza as seguintes tecnologias:
 
 ## 👨‍💻 Developers
 
-- [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/seu-usuario) Seu Nome
+- [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/marisarinho) Mariana Sarinho
